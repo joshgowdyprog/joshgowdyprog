@@ -1,5 +1,5 @@
 Hi, I’m @joshgowdyprog. I'm learning machine learning and data science in general, with aim of becoming a data scientist. 
-I studied Maths followed by a masters in theoretical physics @ University of Oxford graduating in 2019. 
+I studied maths at undergraduate level followed by a masters in theoretical physics both at University of Oxford graduating in 2019. 
 I then completed a PhD in theoretical physics at Queen Mary University of London in 2024, specialising in quantum field theory, black holes and gravitational waves.
 
 <!---
