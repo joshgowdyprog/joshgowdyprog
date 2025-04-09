@@ -1,4 +1,4 @@
-Hi, I’m @joshgowdyprog. I am a data scientist. I completed a PhD in theoretical physics at Queen Mary University of London in 2024, specialising in gravitational wave physics, black holes and quantum field theory. Before that, I studied mathematics at undergraduate level followed by a masters in theoretical physics both at University of Oxford graduating in 2019. 
+Hi, I’m Josh. I am a data scientist. I completed a PhD in theoretical physics at Queen Mary University of London in 2024, specialising in gravitational wave physics, black holes and quantum field theory. Before that, I studied mathematics at undergraduate level followed by a masters in theoretical physics both at University of Oxford graduating in 2019. 
 
 Leveraging these foundations, I am determined to use my broad skill set to solve the problems of the future and provide real insight and impact with the power of data.
 <!---
