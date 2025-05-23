@@ -6,7 +6,7 @@ I have since worked on a handful of projects in the energy sector involving:
 
 * graph-theoretic linear optimisation solutions for modelling GB electicity networks
 
-* computer vision (deep) learning algorithms for optical character recognition
+* computer vision (deep) learning algorithms for optical character recognition of technical engineering diagrams
 
 This repo contains some additional personal and professional projects of mine.
 <!---
