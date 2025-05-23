@@ -2,7 +2,7 @@ Hi, I’m Josh. I am a data scientist. I completed a PhD in theoretical physics 
 
 Leveraging these foundations, I am determined to use my broad skill set to solve the problems of the future and provide real insight and impact with the power of data.
 
-I have since worked on projects in the energy sector involving: 
+I have since worked on a handful of projects in the energy sector involving: 
 
 * graph-theoretic linear optimisation solutions for modelling GB electicity networks
 
