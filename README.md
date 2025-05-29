@@ -2,13 +2,13 @@ Hi, I’m Josh. I am a data scientist. I completed a PhD in theoretical physics 
 
 I have since worked on a handful of projects in the energy sector involving: 
 
-* graph-theoretic linear optimisation solutions for modelling GB electicity networks
-* computer vision (deep) learning algorithms for optical character recognition of technical engineering diagrams
+* modelling GB electicity networks with graph-theoretic, linear optimisation solutions
+* computer vision (deep) learning algorithms for optical character recognition of large, technical engineering diagrams
 
 This repo contains some additional personal and professional projects of mine. Some highlights:
 
 * Bayasian modelling and inference with supernova data including Monte Carlo Markov Chains
-* Forecasting and trading GB energy markets with machine learning
+* Forecasting and trading GB day-ahead energy markets with machine learning (Logistic and XGBoost)
 <!---
 joshgowdyprog/joshgowdyprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
