@@ -8,7 +8,7 @@ I have since worked on a handful of projects in the energy sector involving:
 This repo contains some additional personal and professional projects of mine. Some highlights are:
 
 * Bayasian modelling and inference with supernova data including Monte Carlo Markov Chains
-* Forecasting and trading GB day-ahead energy markets with machine learning (Logistic and XGBoost)
+* Forecasting and trading GB day-ahead energy markets with machine learning
 <!---
 joshgowdyprog/joshgowdyprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
