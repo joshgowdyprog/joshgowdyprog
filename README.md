@@ -3,7 +3,7 @@ Hi, I’m Josh. I am a data scientist. I completed a PhD in theoretical physics 
 I have since worked on a handful of projects in the energy sector involving: 
 
 * modelling power flow on GB electicity networks (uses graph-theoretic, linear optimisation methods)
-* building a bespoke computer vision (deep) learning model for optical character recognition and clustering of information within old engineering diagrams
+* building a bespoke computer vision (deep) learning model for optical character recognition and clustering of information within anitquated engineering diagrams
 
 This repo contains some additional personal and professional projects of mine. Some highlights are:
 
