@@ -1,4 +1,4 @@
-Hi, I’m Josh. I am a data scientist. I completed a PhD in theoretical physics at Queen Mary University of London in autumn 2024, specialising in gravitational wave physics, black holes and quantum field theory. Before that, I studied mathematics at undergraduate level followed by a masters in theoretical physics both at University of Oxford graduating in 2019.
+Hi, I’m Josh. I am a research data scientist. I completed a PhD in theoretical physics at Queen Mary University of London in autumn 2024, specialising in gravitational wave physics, black holes and quantum field theory. Before that, I studied mathematics at undergraduate level followed by a masters in theoretical physics both at University of Oxford graduating in 2019.
 
 I have since worked on a handful of projects in the energy sector involving: 
 
