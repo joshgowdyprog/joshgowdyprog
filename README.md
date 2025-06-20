@@ -2,12 +2,12 @@ Hi, I’m Josh. I am a research data scientist. I completed a PhD in theoretical
 
 I have since worked on a handful of projects in the energy sector involving: 
 
-* modelling power flow on GB electicity networks (uses graph-theoretic, linear optimisation methods)
-* building a bespoke computer vision (deep) learning model for optical character recognition and clustering of information within anitquated engineering diagrams
+* modelling power flow on GB electicity grid (uses linear programming methods)
+* building a bespoke computer vision (deep) learning model for optical character recognition and clustering of information within anitquated engineering diagrams (uses convolutional + recurrent neural nets)
 
 This repo contains some additional personal and professional projects of mine. Some highlights are:
 
-* Forecasting and trading GB day-ahead energy markets with machine learning
+* Forecasting and trading GB day-ahead energy markets with machine learning (uses logistic and gradient boosting classifiers)
 * Bayasian modelling and inference with supernova data including Monte Carlo Markov Chains
 
 <!---
